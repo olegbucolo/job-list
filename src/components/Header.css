@@ -1,0 +1,16 @@
+.header-main{
+    height: 5rem;
+    background-color: brown;
+}
+
+.navbar{
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ul-l li, .ul-r li{
+    display: inline-block;
+    margin: 1.6rem;
+}
