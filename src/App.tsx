@@ -1,7 +1,7 @@
 import './App.css'
-import { HomePage } from './home/HomePage'
-import { AboutPage } from './about/AboutPage'
-import { JobsPage } from './jobs/JobsPage'
+import { HomePage } from './pages/home/HomePage'
+import { AboutPage } from './pages/about/AboutPage'
+import { JobsPage } from './pages/jobs/JobsPage'
 import { Routes, Route } from 'react-router-dom';
 import { Header } from './components/Header';
 

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Frontend Developer",
+    "company": "Tech Solutions Ltd",
+    "location": "Remote",
+    "type": "Full-time"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "company": "WebWorks Studio",
+    "location": "New York, NY",
+    "type": "Full-time"
+  },
+  {
+    "id": 3,
+    "title": "React Developer",
+    "company": "Startup Labs",
+    "location": "Berlin, Germany",
+    "type": "Contract"
+  },
+  {
+    "id": 4,
+    "title": "UI Engineer",
+    "company": "Creative Agency",
+    "location": "London, UK",
+    "type": "Full-time"
+  },
+  {
+    "id": 5,
+    "title": "Junior Software Engineer",
+    "company": "Digital Systems",
+    "location": "Toronto, Canada",
+    "type": "Full-time"
+  },
+  {
+    "id": 6,
+    "title": "Frontend Intern",
+    "company": "NextGen Tech",
+    "location": "Remote",
+    "type": "Internship"
+  },
+  {
+    "id": 7,
+    "title": "Web Developer",
+    "company": "E-Commerce Corp",
+    "location": "Austin, TX",
+    "type": "Part-time"
+  },
+  {
+    "id": 8,
+    "title": "Senior Frontend Developer",
+    "company": "Enterprise Software",
+    "location": "San Francisco, CA",
+    "type": "Full-time"
+  },
+  {
+    "id": 9,
+    "title": "JavaScript Developer",
+    "company": "Product Studio",
+    "location": "Amsterdam, Netherlands",
+    "type": "Contract"
+  },
+  {
+    "id": 10,
+    "title": "Frontend Engineer",
+    "company": "SaaS Platform",
+    "location": "Remote",
+    "type": "Full-time"
+  }
+]
