@@ -1,7 +1,7 @@
 export function JobDetailsPage() {
     return (
-           <div>
+        <div>
             displaying JobDetailsPage
-           </div>
+        </div>
     )
 }
