@@ -3,9 +3,10 @@ import { JobItem } from './JobItem';
 
 interface JobListProps {
     jobs: Job[];
+    onJobApply: (id: number) => void;
 }
 
-export function JobList({ jobs }: JobListProps) {
+export function JobList({ jobs, onJobApply }: JobListProps) {
 
     return (
         <ul className="ul-cards">
@@ -13,6 +14,7 @@ export function JobList({ jobs }: JobListProps) {
                 return (
                     <JobItem
                         key={job.id}
+                        onJobApply={onJobApply}
                         job={job} />
                 )
             })}

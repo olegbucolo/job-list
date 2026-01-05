@@ -31,6 +31,11 @@
 
 .job-title-type {}
 
-.job-company {}
+.li-card .job-company {
+    font-size: 1.4rem;
+    text-decoration: underline;
+    color: blue;
+}
 
-.job-location {}
+.job-location {
+}

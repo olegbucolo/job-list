@@ -4,4 +4,5 @@ export interface Job {
     company: string;
     location: string;
     type: string;
+    applied: boolean;
 }
