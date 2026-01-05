@@ -1,6 +1,7 @@
 import type {Job} from '../../types/job';
 import {useState, useEffect} from 'react';
 import rawJobsData from '../data/jobs.json'
+import {JobList} from './JobList';
 
 export function JobsPage() {
 
@@ -16,10 +17,10 @@ export function JobsPage() {
 
     return (
         <section>
-            <div>jobs page</div>
             {/* search thing? */}
             {/* filters thing*/}
             {/* job lists */}
+            <JobList jobs={jobs}/>
             
         </section>
     )
