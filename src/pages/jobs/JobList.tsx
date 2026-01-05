@@ -8,13 +8,14 @@ interface JobListProps {
 export function JobList({ jobs }: JobListProps) {
 
     return (
-        jobs.map((job) => {
-            return (
-                <JobItem
-                    key={job.id}
-                    job={job} />
-            )
-        })
-
+        <ul className="ul-cards">
+            {jobs.map((job) => {
+                return (
+                    <JobItem
+                        key={job.id}
+                        job={job} />
+                )
+            })}
+        </ul>
     )
 }

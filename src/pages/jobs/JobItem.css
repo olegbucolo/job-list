@@ -1,0 +1,36 @@
+.li-card {
+    text-align: start;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.li-card a {
+    color: black;
+    flex: 1;
+}
+
+.btn-apply {
+    border: none;
+    color: black;
+    background-color: lightgrey;
+    font-weight: 700;
+    padding: .6rem 1.2rem;
+    border-radius: .4rem;
+    cursor: pointer;
+}
+
+.btn-apply:active {
+    transform: scale(95%);
+}
+
+.job-title-type {}
+
+.job-company {}
+
+.job-location {}
