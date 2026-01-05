@@ -1,5 +1,5 @@
 import type { Job } from '../../types/job';
-import {NavLink} from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './JobItem.css';
 
 interface JobItemProps {
@@ -10,20 +10,20 @@ interface JobItemProps {
 export function JobItem({ job, onJobApply }: JobItemProps) {
     return (
         <li className="li-card">
-            <NavLink to={`/job-details/${job.id}`}>
-                <div className="info">
+            <div className="info">
+                <NavLink to={`/job-details/${job.id}`}>
                     <h1 className="job-title-type">{`${job.title}, ${job.type}`}</h1>
-                    <div className="job-company" >
-                        {job.company}
-                    </div>
-                    <p className="job-location">{job.location}</p>
-                </div>
-            </NavLink>
+                </NavLink>
+                <NavLink className="job-company" >
+                    {job.company}
+                </NavLink>
+                <p className="job-location">{job.location}</p>
+            </div>
             <div className="action">
                 <button
                     className="btn-apply"
                     onClick={() => onJobApply(job.id)}>
-                    {job.applied ? 'Delist application' : 'Apply'}
+                    {job.applied ? 'Cancel application' : 'Send CV'}
                 </button>
             </div>
         </li>

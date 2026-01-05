@@ -1,0 +1,33 @@
+.job-title{
+    
+}
+
+.header-job-details{
+    margin: 2rem;
+}
+
+.ul-job-details{
+    list-style:decimal;
+    margin: 3rem;
+}
+
+.section-job-details a{
+    color: blue;
+    text-decoration: underline;
+}
+
+.job-company{
+
+}
+
+.job-desc{
+    
+}
+
+.job-requirements{
+
+}
+
+.job-location{
+
+}

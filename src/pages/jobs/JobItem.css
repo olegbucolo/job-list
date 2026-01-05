@@ -8,7 +8,9 @@
     align-items: center;
 }
 
-
+.info{
+    flex: 1;
+}
 
 .li-card a {
     color: black;
@@ -29,12 +31,17 @@
     transform: scale(95%);
 }
 
-.job-title-type {}
+.job-title-type:hover {
+    text-decoration: underline;
+}
 
 .li-card .job-company {
     font-size: 1.4rem;
-    text-decoration: underline;
     color: blue;
+}
+
+.li-card .job-company:hover {
+    text-decoration: underline;
 }
 
 .job-location {
