@@ -1,4 +1,5 @@
 import type { Job } from '../../types/job';
+import {NavLink} from 'react-router-dom';
 import './JobItem.css';
 
 interface JobItemProps {
@@ -9,15 +10,15 @@ interface JobItemProps {
 export function JobItem({ job, onJobApply }: JobItemProps) {
     return (
         <li className="li-card">
-            <a href="">
+            <NavLink to={`/job-details/${job.id}`}>
                 <div className="info">
                     <h1 className="job-title-type">{`${job.title}, ${job.type}`}</h1>
-                    <a className="job-company" href="" >
+                    <div className="job-company" >
                         {job.company}
-                    </a>
+                    </div>
                     <p className="job-location">{job.location}</p>
                 </div>
-            </a>
+            </NavLink>
             <div className="action">
                 <button
                     className="btn-apply"

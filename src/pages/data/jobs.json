@@ -1,92 +1,202 @@
 [
   {
+    "applied": false,
     "id": 1,
-    "title": "Junior Frontend Developer",
+    "title": "Frontend Developer",
     "company": "Tech Solutions Ltd",
     "location": "Remote",
     "type": "Full-time",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "salary": "$70k–$90k",
+    "description": "We are looking for a frontend developer to build UI features.",
+    "responsibilities": [
+      "Build React components",
+      "Collaborate with designers",
+      "Maintain UI consistency"
+    ],
+    "requirements": [
+      "React",
+      "TypeScript",
+      "CSS"
+    ]
   },
   {
+    "applied": false,
     "id": 2,
-    "title": "Frontend Developer",
-    "company": "WebWorks Studio",
+    "title": "Backend Developer",
+    "company": "CloudCore Inc",
     "location": "New York, NY",
     "type": "Full-time",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "salary": "$80k–$110k",
+    "description": "Develop and maintain scalable backend services.",
+    "responsibilities": [
+      "Build REST APIs",
+      "Optimize database queries",
+      "Ensure system reliability"
+    ],
+    "requirements": [
+      "Node.js",
+      "PostgreSQL",
+      "API design"
+    ]
   },
   {
+    "applied": false,
     "id": 3,
-    "title": "React Developer",
-    "company": "Startup Labs",
-    "location": "Berlin, Germany",
-    "type": "Contract",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
-  },
-  {
-    "id": 4,
-    "title": "UI Engineer",
-    "company": "Creative Agency",
-    "location": "London, UK",
-    "type": "Full-time",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
-  },
-  {
-    "id": 5,
-    "title": "Junior Software Engineer",
-    "company": "Digital Systems",
-    "location": "Toronto, Canada",
-    "type": "Full-time",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
-  },
-  {
-    "id": 6,
-    "title": "Frontend Intern",
-    "company": "NextGen Tech",
+    "title": "Full Stack Engineer",
+    "company": "Startup Hub",
     "location": "Remote",
-    "type": "Internship",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "type": "Full-time",
+    "salary": "$90k–$120k",
+    "description": "Work across frontend and backend to deliver end-to-end features.",
+    "responsibilities": [
+      "Develop frontend and backend features",
+      "Participate in code reviews",
+      "Collaborate with product managers"
+    ],
+    "requirements": [
+      "React",
+      "Node.js",
+      "SQL"
+    ]
   },
   {
-    "id": 7,
-    "title": "Web Developer",
-    "company": "E-Commerce Corp",
-    "location": "Austin, TX",
-    "type": "Part-time",
     "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
-  },
-  {
-    "id": 8,
-    "title": "Senior Frontend Developer",
-    "company": "Enterprise Software",
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Creative Labs",
     "location": "San Francisco, CA",
     "type": "Full-time",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "salary": "$75k–$95k",
+    "description": "Design intuitive and visually appealing user interfaces.",
+    "responsibilities": [
+      "Create wireframes and prototypes",
+      "Conduct user research",
+      "Collaborate with developers"
+    ],
+    "requirements": [
+      "Figma",
+      "User research",
+      "Design systems"
+    ]
   },
   {
-    "id": 9,
-    "title": "JavaScript Developer",
-    "company": "Product Studio",
-    "location": "Amsterdam, Netherlands",
+    "applied": false,
+    "id": 5,
+    "title": "Mobile App Developer",
+    "company": "AppWorks",
+    "location": "Remote",
     "type": "Contract",
-    "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "salary": "$60–$80/hr",
+    "description": "Build and maintain cross-platform mobile applications.",
+    "responsibilities": [
+      "Develop mobile features",
+      "Fix bugs and performance issues",
+      "Publish app updates"
+    ],
+    "requirements": [
+      "React Native",
+      "iOS/Android",
+      "Git"
+    ]
   },
   {
-    "id": 10,
-    "title": "Frontend Engineer",
-    "company": "SaaS Platform",
+    "applied": false,
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "InfraTech",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "salary": "$100k–$130k",
+    "description": "Manage cloud infrastructure and CI/CD pipelines.",
+    "responsibilities": [
+      "Maintain deployment pipelines",
+      "Monitor system performance",
+      "Improve infrastructure reliability"
+    ],
+    "requirements": [
+      "AWS",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "applied": false,
+    "id": 7,
+    "title": "Data Analyst",
+    "company": "Insight Analytics",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "salary": "$65k–$85k",
+    "description": "Analyze data to generate actionable business insights.",
+    "responsibilities": [
+      "Analyze datasets",
+      "Create reports and dashboards",
+      "Support decision-making"
+    ],
+    "requirements": [
+      "SQL",
+      "Excel",
+      "Data visualization"
+    ]
+  },
+  {
+    "applied": false,
+    "id": 8,
+    "title": "QA Engineer",
+    "company": "Quality First",
     "location": "Remote",
     "type": "Full-time",
+    "salary": "$60k–$80k",
+    "description": "Ensure product quality through manual and automated testing.",
+    "responsibilities": [
+      "Write test cases",
+      "Execute test plans",
+      "Report and track bugs"
+    ],
+    "requirements": [
+      "Manual testing",
+      "Automation basics",
+      "Attention to detail"
+    ]
+  },
+  {
     "applied": false,
-    "description": "We are looking to hire for our job really really important stuff do dodododod We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod  We are looking to hire for our job really really important stuff do dodododod "
+    "id": 9,
+    "title": "Product Manager",
+    "company": "NextGen Products",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "salary": "$95k–$125k",
+    "description": "Lead product strategy and execution from concept to launch.",
+    "responsibilities": [
+      "Define product roadmap",
+      "Gather requirements",
+      "Coordinate cross-functional teams"
+    ],
+    "requirements": [
+      "Product strategy",
+      "Agile",
+      "Communication skills"
+    ]
+  },
+  {
+    "applied": false,
+    "id": 10,
+    "title": "Technical Support Engineer",
+    "company": "HelpDesk Pro",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$50k–$65k",
+    "description": "Provide technical support to customers and internal teams.",
+    "responsibilities": [
+      "Respond to support tickets",
+      "Troubleshoot technical issues",
+      "Document solutions"
+    ],
+    "requirements": [
+      "Customer support",
+      "Basic networking",
+      "Problem-solving"
+    ]
   }
 ]
