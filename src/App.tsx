@@ -38,7 +38,7 @@ function App() {
         <Route index element={<HomePage />} />
         <Route path={"jobs"} element={<JobsPage jobs={jobs} onJobApply={applyForJob}/>} />
         <Route path={"about"} element={<AboutPage />} />
-        <Route path={"job-details/:id"} element={<JobDetailsPage />} />
+        <Route path={"job-details/:id"} element={<JobDetailsPage jobs={jobs}/>} />
       </Routes>
     </>
   )
